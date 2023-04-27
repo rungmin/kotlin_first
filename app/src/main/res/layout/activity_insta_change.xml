@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center">
+
+
+    <ImageView
+        android:id="@+id/profile_img"
+        android:src="@drawable/btn_outsta_my"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/change_img"
+        android:layout_width="144dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="19dp"
+        android:background="@drawable/inst_login"
+        android:text="완료"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

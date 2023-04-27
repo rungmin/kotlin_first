@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.hello_world">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Hello_World"
+        tools:targetApi="31">
+        <activity
+            android:name=".ToDoWriteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InstaSplashActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InstaChangeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InstaMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InstaJoinActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InstaLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MelonActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MelonDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".YoutubeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".YoutubeItemActivity"
+            android:exported="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".PermissionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RetrofitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NetworkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RoomActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SharedPreferenceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TabLayoutPagerSimpleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListViewHomework"
+            android:exported="false" />
+        <activity
+            android:name=".TabLayoutPagerNewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TaplayoutPagerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainHomework"
+            android:exported="false" />
+        <activity
+            android:name=".RecyclerViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeWork0102"
+            android:exported="false" />
+        <activity
+            android:name=".nextPage"
+            android:exported="false" />
+        <activity
+            android:name=".AddViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ToDoActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GlideActivity02"
+            android:exported="false" />
+        <activity
+            android:name=".GlideActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Application_Activity01"
+            android:exported="false" />
+        <activity
+            android:name=".Application_Activity02"
+            android:exported="false" />
+        <activity
+            android:name=".AsyncActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Thread_activity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ResourceActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SharedPreferenceActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/create"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/blue_background"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Create"
+        android:textSize="20dp"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/read"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/blue_background"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Read"
+        android:textSize="20dp"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/update"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/blue_background"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Update"
+        android:textSize="20dp"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/delete"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/blue_background"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Delete"
+        android:textSize="20dp"
+        android:layout_marginBottom="10dp"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

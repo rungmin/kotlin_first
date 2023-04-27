@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/blue_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable-v24/yellow_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/inst_login.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/insta_input_bg.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/todo_bg.xml" value="0.1385" />
+        <entry key="app/src/main/res/layout/activity_add_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_application01.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_application02.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_async.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_glide.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_glide02.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_home_work0102.xml" value="0.10552536231884058" />
+        <entry key="app/src/main/res/layout/activity_insta_change.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_insta_join.xml" value="0.1403985507246377" />
+        <entry key="app/src/main/res/layout/activity_insta_login.xml" value="0.13677811550151975" />
+        <entry key="app/src/main/res/layout/activity_insta_main.xml" value="0.1403985507246377" />
+        <entry key="app/src/main/res/layout/activity_insta_splash.xml" value="0.1265625" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_list_view.xml" value="0.1981231689453125" />
+        <entry key="app/src/main/res/layout/activity_list_view_homework.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main_homework.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_melon.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_melon_detail.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_network.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_next_page.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_permission.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_recycler_view.xml" value="0.19767441860465115" />
+        <entry key="app/src/main/res/layout/activity_resource.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_retrofit.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_room.xml" value="0.13594207763671876" />
+        <entry key="app/src/main/res/layout/activity_shared_preference.xml" value="0.1265625" />
+        <entry key="app/src/main/res/layout/activity_tab_layout_pager_new.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_tab_layout_pager_simple.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_taplayout_pager.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_thread.xml" value="0.192481884057971" />
+        <entry key="app/src/main/res/layout/activity_to_do.xml" value="0.304779052734375" />
+        <entry key="app/src/main/res/layout/activity_to_do_write.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_youtube.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/activity_youtube_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/car_item.xml" value="0.13958333333333334" />
+        <entry key="app/src/main/res/layout/homework_1219.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/insta_feed_fragment.xml" value="0.1403985507246377" />
+        <entry key="app/src/main/res/layout/insta_one.xml" value="0.13958333333333334" />
+        <entry key="app/src/main/res/layout/insta_post_fragment.xml" value="0.16942138671875" />
+        <entry key="app/src/main/res/layout/insta_profile_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/insta_three.xml" value="0.1403985507246377" />
+        <entry key="app/src/main/res/layout/insta_two.xml" value="0.13958333333333334" />
+        <entry key="app/src/main/res/layout/melon_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/one_fragment.xml" value="0.140625" />
+        <entry key="app/src/main/res/layout/post_item.xml" value="0.13958333333333334" />
+        <entry key="app/src/main/res/layout/students_item.xml" value="0.13958333333333334" />
+        <entry key="app/src/main/res/layout/sub2homework.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/subhomework.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/test_homework.xml" value="0.10552536231884058" />
+        <entry key="app/src/main/res/layout/todo_content.xml" value="0.2567616559457088" />
+        <entry key="app/src/main/res/layout/todo_date.xml" value="0.12182971014492754" />
+        <entry key="app/src/main/res/layout/youtube_list_item.xml" value="0.17231343587239575" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
