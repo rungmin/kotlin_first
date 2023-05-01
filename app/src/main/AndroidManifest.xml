@@ -19,6 +19,9 @@
         android:theme="@style/Theme.Hello_World"
         tools:targetApi="31">
         <activity
+            android:name=".signinActivity"
+            android:exported="false" />
+        <activity
             android:name=".ToDoWriteActivity"
             android:exported="false" />
         <activity
