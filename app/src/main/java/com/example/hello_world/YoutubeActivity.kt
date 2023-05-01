@@ -33,6 +33,7 @@ class YoutubeActivity : AppCompatActivity() {
             .build()
         val retrofitService = retrofit.create(RetrofitService::class.java)
 
+
         retrofitService.getYoutubeItemList().enqueue(object : Callback<ArrayList<YoutubeItem>> {
             override fun onResponse(
                 call: Call<ArrayList<YoutubeItem>>,
@@ -47,6 +48,7 @@ class YoutubeActivity : AppCompatActivity() {
                             LayoutInflater.from(this@YoutubeActivity),
                             Glide.with(this@YoutubeActivity),
                             this@YoutubeActivity
+
                         )
                         this.layoutManager = LinearLayoutManager(this@YoutubeActivity)
                     }
